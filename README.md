@@ -24,7 +24,7 @@ CodingButter Twitch Stream.
     - [ ] Then: Im forced to log in
   - [ ] Else: I return that endpoints overlay/Functionality
 
-## Consumer
+## Consumer Logical Todos
 
 (Verify roles by parsing url params | unique key provided from chat command)
 
