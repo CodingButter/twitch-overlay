@@ -14,8 +14,8 @@ CodingButter Twitch Stream.
 
 - I visit the site at one of the obs overlay enpoints
   - And: Im not logged
-    - Then: Im forced to log in - []
-  - Else: I return that endpoints overlay/Functionality - []
+    - [] Then: Im forced to log in
+  - [] Else: I return that endpoints overlay/Functionality
 
 ## Consumer
 
@@ -26,6 +26,6 @@ CodingButter Twitch Stream.
 A consumer visits the site
 
 - They receive appropriate overlay functionalies
-  - Visitor - []
-  - Follower - []
-  - Subscriber - []
+  - [] Visitor
+  - [] Follower
+  - [] Subscriber
