@@ -1,14 +1,21 @@
 # Twitch Interactive Overlay
 
-## Project Goal
+# Project Goal
 
 Our goal is to provide a fresh, entertaining and engaging way
 for viewer,followers and subscribers alike to interact with the
 CodingButter Twitch Stream.
 
-## Application Scope
+# Application Todos
 
-## Streamer
+## Developer Todo
+
+- [x] Create README.md
+  - [x] Include Project Goals
+  - [x] Include Streamer Logic Todos
+  - [x] Include Consumer Logical Todos
+
+## Streamer Logical Todos
 
 ### When:
 
